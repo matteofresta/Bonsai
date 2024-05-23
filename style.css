@@ -169,3 +169,25 @@ li a
     color: var(--clr-primary-100);
     transition: .5s ease;
 }
+
+.wrapper-head
+{
+    display: flex;
+    padding-top: 11rem;
+    justify-content: center;
+    gap: 4rem;
+    align-items: center;
+}
+
+.wrapper-head > :nth-child(4 of .col)
+{
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+    flex-direction: column;
+}
+
+.wrapper-head > .col:last-child > p
+{
+    margin-right: 2rem;
+}
