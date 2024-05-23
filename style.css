@@ -127,7 +127,7 @@ header
     position: fixed;
     justify-content: space-evenly;
     align-items: center;
-    background-color: var(--clr-priinimary-100);
+    background-color: var(--clr-primary-100);
     box-shadow: 0px 14px 87px -30px rgba(66, 68, 90, 1);
 }
 
